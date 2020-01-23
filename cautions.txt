@@ -1,0 +1,13 @@
+This is a Program named Faulty Calculator.
+
+IN a school some student want to cheat in the Maths paper,
+he/she borrow A CALCULATOR,
+If we Know About this, Then we changes its calculator with our Faulty calulator Program,
+who perform some action very wrongly ,Then He/She do not cheat complately,
+so This is Faluty Calculater which perform some operations like,
+
+45 * 3 = 555
+56+9=77
+56/6=4
+
+Answer of Them is Wrong.
